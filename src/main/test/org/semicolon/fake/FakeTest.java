@@ -1,6 +1,4 @@
-package fake;
-
-import dummy.FakeBookRepository;
+package semicolon.fake;
 import org.junit.Test;
 import org.semicolon.fake.Book;
 import org.semicolon.fake.BookRepository;

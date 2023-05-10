@@ -1,4 +1,4 @@
-package dummy;
+package semicolon.fake;
 
 import org.semicolon.fake.Book;
 import org.semicolon.fake.BookRepository;
@@ -18,4 +18,6 @@ public class FakeBookRepository implements BookRepository {
     public Collection<Book> findAll() {
         return bookStore.values();
     }
+
+
 }

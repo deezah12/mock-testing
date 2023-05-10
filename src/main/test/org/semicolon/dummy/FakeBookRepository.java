@@ -1,7 +1,4 @@
-package fake;
-
-import org.semicolon.fake.Book;
-import org.semicolon.fake.BookRepository;
+package org.semicolon.dummy;
 
 import java.util.Collection;
 import java.util.HashMap;
